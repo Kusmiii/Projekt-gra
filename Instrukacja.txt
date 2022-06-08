@@ -1,0 +1,4 @@
+1. Stworzyc nowy projekt w Unity Hub
+2. Wejść w Assets > Import Package > Custom Package
+3. Zaznaczyc pobrany package
+4. Cieszyc sier z zaimportowanego package
